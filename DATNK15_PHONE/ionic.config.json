@@ -1,0 +1,10 @@
+{
+  "name": "DATNK15_PHONE",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
